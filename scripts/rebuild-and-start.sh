@@ -12,4 +12,6 @@ export APP_PATH=$__root
 
 ###############################################################################
 
-docker-compose --file docker/infra.yml up
+docker-compose --file docker/infra.yml up --build
+
+
