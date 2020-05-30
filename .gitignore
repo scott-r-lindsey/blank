@@ -1,0 +1,13 @@
+
+/config.sh
+/credentials.sh
+/data
+
+*.swp
+*.swo
+*.old
+*~
+*.cache
+*.config
+*.pid
+*.stop
